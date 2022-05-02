@@ -1,4 +1,4 @@
-# Genealogy-Academic-Bibliographic-Coupling
+
 bibliographic coupling between advisor and advisee
 
 Calcula a intensidade de acoplamento bibliográfico entre orientador e orientandos
